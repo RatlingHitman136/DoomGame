@@ -1,0 +1,16 @@
+﻿<Window x:Class="DoomKindGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DoomKindGame"
+        mc:Ignorable="d"
+        Title="DoomKindGame" Height="900" Width="1600">
+    <Grid>
+        
+        <Canvas Height="871" Width="1593" Name="MainCanvas" Focusable="true" Background="Black"  KeyDown="KeyIsDown" KeyUp="KeyIsUp"> </Canvas>
+        <Canvas Height="246" Canvas.Left="1338" Name ="MiniMap" Canvas.Top="10" Width="246" Background="DarkGray" Margin="1337,10,10.333,614.667"/>
+        
+    </Grid>
+
+</Window>

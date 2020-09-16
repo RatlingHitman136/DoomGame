@@ -1,0 +1,15 @@
+C:\Users\boris\source\repos\DoomKindGame\DoomKindGame\bin\Debug\DoomKindGame.exe.config
+C:\Users\boris\source\repos\DoomKindGame\DoomKindGame\bin\Debug\DoomKindGame.exe
+C:\Users\boris\source\repos\DoomKindGame\DoomKindGame\bin\Debug\DoomKindGame.pdb
+C:\Users\boris\source\repos\DoomKindGame\DoomKindGame\obj\Debug\DoomKindGame.csprojAssemblyReference.cache
+C:\Users\boris\source\repos\DoomKindGame\DoomKindGame\obj\Debug\MainWindow.g.cs
+C:\Users\boris\source\repos\DoomKindGame\DoomKindGame\obj\Debug\App.g.cs
+C:\Users\boris\source\repos\DoomKindGame\DoomKindGame\obj\Debug\DoomKindGame_MarkupCompile.cache
+C:\Users\boris\source\repos\DoomKindGame\DoomKindGame\obj\Debug\DoomKindGame_MarkupCompile.lref
+C:\Users\boris\source\repos\DoomKindGame\DoomKindGame\obj\Debug\MainWindow.baml
+C:\Users\boris\source\repos\DoomKindGame\DoomKindGame\obj\Debug\DoomKindGame.g.resources
+C:\Users\boris\source\repos\DoomKindGame\DoomKindGame\obj\Debug\DoomKindGame.Properties.Resources.resources
+C:\Users\boris\source\repos\DoomKindGame\DoomKindGame\obj\Debug\DoomKindGame.csproj.GenerateResource.cache
+C:\Users\boris\source\repos\DoomKindGame\DoomKindGame\obj\Debug\DoomKindGame.csproj.CoreCompileInputs.cache
+C:\Users\boris\source\repos\DoomKindGame\DoomKindGame\obj\Debug\DoomKindGame.exe
+C:\Users\boris\source\repos\DoomKindGame\DoomKindGame\obj\Debug\DoomKindGame.pdb
